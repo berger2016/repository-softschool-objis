@@ -1,0 +1,6 @@
+com.objis.cameroun.softschool.dao
+com.objis.cameroun.softschool.domaine
+com.objis.cameroun.softschool.presentation
+com.objis.cameroun.softschool.presentation.GUI
+com.objis.cameroun.softschool.services
+org.eclipse.wb.swing
